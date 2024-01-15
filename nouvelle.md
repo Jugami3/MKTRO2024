@@ -1,6 +1,5 @@
 # Situation initiale
-coucou,
-Je suis un homme qui ne comprends rien
+julien ne regarde pas les codes que j'écris...
 # Premier élement perturbateur
 
 # Second élément pertubateur
